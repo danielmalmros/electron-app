@@ -1,0 +1,19 @@
+{
+  "name": "0.1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmalmros/electron-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielmalmros/electron-app/issues"
+  },
+  "homepage": "https://github.com/danielmalmros/electron-app#readme"
+}
